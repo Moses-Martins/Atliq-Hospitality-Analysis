@@ -7,8 +7,18 @@ The goal is to deliver valuable insights to AtliQ Grands by analyzing their hist
 2. **Dashboard Development:** Next, I created a dashboard that aligned with the mock-up we received from stakeholders, ensuring it fit with AtliQ Grands' strategic goals.
 3. **Insight Generation:** Finally, I analyzed the data to uncover additional insights beyond the metrics and dashboard. This provided even more value for their decision-making process.
 
-###
+## Methodology
+I created different views within the Report
+
+### Executive View
+To provide a high-level overview of key metrics for executive decision-making.
+![Logo](./Images/Executive%20view.png)
+
+### Booking Analysis
+To provide detailed insights into booking patterns, platforms, and customer preferences
 ![Logo](./Images/Booking%20Analysis.png)
 
-
+### Performance Analysis
+To analyze overall performance metrics and key financial indicators
+![Logo](./Images/Performance%20Analysis.png)
 
