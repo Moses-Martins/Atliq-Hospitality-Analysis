@@ -12,13 +12,16 @@ I created different views within the Report
 
 ### Executive View
 To provide a high-level overview of key metrics for executive decision-making.
+#
 ![Logo](./Images/Executive%20view.png)
 
 ### Booking Analysis
-To provide detailed insights into booking patterns, platforms, and customer preferences
+To provide detailed insights into booking patterns, platforms, and customer preferences.
+#
 ![Logo](./Images/Booking%20Analysis.png)
 
 ### Performance Analysis
-To analyze overall performance metrics and key financial indicators
+To analyze overall performance metrics and key financial indicators.
+#
 ![Logo](./Images/Performance%20Analysis.png)
 
